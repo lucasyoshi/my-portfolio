@@ -20,8 +20,7 @@ const Projects = () => {
       technologies: ["C#", ".NET Core", "MVC", "Microsoft SQL Server"],
       image: "LifeCycle.webp",
       link: "",
-      github:
-        "https://github.com/DMIT-2018/2018-jan-2023-a03-project-team3-a03-jan2023/tree/main/eBikes/Receiving",
+      github: "https://github.com/lucasyoshi/LifeCycle",
     },
     {
       id: 3,
@@ -38,7 +37,7 @@ const Projects = () => {
       image: "LifeCycle.webp",
       link: "",
       github:
-        "https://github.com/DMIT-2018/2018-jan-2023-a03-project-team3-a03-jan2023/tree/main/eBikes/Receiving",
+        "https://github.com/lucasyoshi/YEGPropertyData",
     },
   ];
 
